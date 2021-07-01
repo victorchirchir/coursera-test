@@ -7,7 +7,7 @@ h1{
 }
 span{
 	
-	font-size: 6px;
+	font-size: 18px;
 	background-color: red;
 	margin-bottom:0;
 	/*margin-left: 10px
@@ -15,8 +15,6 @@ span{
 	position: absolute;
 	top:0;
 	right:0;
-	width: 20%;
-	height: 25%;
 	text-align: right;
 	margin-top: 0;
 	border:1px solid black;
