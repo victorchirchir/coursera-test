@@ -5,20 +5,25 @@ h1{
 	margin-bottom: 15px;
 	text-align-last: center;
 }
-section{
+span{
 	
-	font-size: 18px;
+	font-size: 120%;
 	background-color: red;
-	/*width: 150px;*/
 	margin-bottom:0;
-	margin-left: 10px;
-	margin-right: 10px;
-	position: relative;
-	left: 272.5px;
-	width:10px;
+	/*margin-left: 10px
+	margin-right: 10px;*/
+	position: absolute;
+	top:0;
+	right:0;
+	width: 20%;
+	height: 25%;
+	text-align: right;
+	margin-top: 0;
+	border:1px solid black;
+	margin-right: 0;
 }
 p{
-	height: 200px;
+	height: 180px;
 	/*width: 150px;*/
 	background-image: url(food.jpeg);
 	border:1px solid black;
@@ -27,8 +32,9 @@ p{
 	font-family: Helvetica;
 	/*background-color: grey;*/
 	margin:10px;
+	position: relative;
 	margin-top:0;
-	padding-top:25px;
+	padding-top:15%;
 	width: 90%:}
 .row{
 	width: 100%;
