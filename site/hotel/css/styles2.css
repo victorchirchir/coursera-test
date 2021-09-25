@@ -106,8 +106,7 @@ body {
 }
 
 /********** Extra small devices only **********/
-@media (max-width: 767px) {
-  /* Header */
+@media (max-width: 767px) {/* Header */
   .navbar-brand {
     padding-top: 10px;
     height: 80px;

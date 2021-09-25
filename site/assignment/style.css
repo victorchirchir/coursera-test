@@ -15,8 +15,11 @@ span{
 	position: absolute;
 	top:0;
 	right:0;
+<<<<<<< HEAD
 	/*width: 20%;*/
 	/*height: 25%;*/
+=======
+>>>>>>> 4b1fca4a4aa591a036f84d77fd423849b1195fbe
 	text-align: right;
 	margin-top: 0;
 	border:1px solid black;
